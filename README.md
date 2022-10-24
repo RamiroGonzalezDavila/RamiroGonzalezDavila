@@ -11,27 +11,29 @@ My principal professional interest are focused on game development and mobile, I
 ### My principal proyects and colaborations:
 
 - Aral´s Revenge KajaamReplit:
-   If you want to play only follow this [link](https://Arals-Revenge.ramiroyoshuafra.repl.co)
+   If you want to play only follow this [link](https://Arals-Revenge.ramiroyoshuafra.repl.co) <br>
    I will love to hear your comments and recommendations.
  
 - Alien invasion:
   This is a scholarly project that involves AI, the principal objective was to create a tower defense game in Unity in which you will be an alien an your objective will be to destroy the human base. <br>
   Principal Rol: Developer of the enemy agent, colaborator of the game design and logic of the game.<br>
   [Video Demo for enemy agent](https://drive.google.com/file/d/19ozpDaTk2Nyoxjzefj6TxdjBelqNussH/view?usp=sharing)<br>
-  [Presentation](https://docs.google.com/presentation/d/1xxE3dso6KpFnMlHAdAFBkCxSzggKivtPXmTlO8gKAas/edit?usp=sharing)
-  
+  [Presentation of the game](https://docs.google.com/presentation/d/1xxE3dso6KpFnMlHAdAFBkCxSzggKivtPXmTlO8gKAas/edit?usp=sharing)
+ 
+ 
+### Professional Exprience:
 
-<!--
-**RamiroGonzalezDavila/RamiroGonzalezDavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- RPA Developer at BeckeerCo <br>
+ September 2021 - March 2022 <br>
+ My principal responsibilities were to develop RPA software in Uipath for USA and LATAM clients.<br>
+ __Tools:__ Uipath Studio, Uipath Orchestrator, GitHub, Azure DevOps, AWS.
+ 
+ 
+ - Internship at Ancient The wisdom of technology <br>
+ March 2021 - April 2022 <br>
+ 
+ 
+ - RPA Developer at KPMG Mexico <br>
+ August 2022 - Currently <br>
+ My principal responsibilities are to develop RPA software in Uipath and its integrations.<br>
+ __Tools:__ Uipath Studio, Uipath Orchestrator, SQL Manager.
