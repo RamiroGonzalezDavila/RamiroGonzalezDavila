@@ -45,3 +45,5 @@ Contact:
  September 2021 - March 2022 <br>
  My principal responsibilities were to develop RPA software in Uipath for USA and LATAM clients.<br>
  __Tools:__ Uipath Studio, Uipath Orchestrator, GitHub, Azure DevOps, AWS, Scrum Methodology.
+
+### Skills and certifications:
