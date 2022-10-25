@@ -1,4 +1,4 @@
-## Hi everyone 😁
+## Welcome to my profile 😁
 
 My name is Ramiro Yoshua Franscisco González Dávila
 
@@ -14,31 +14,34 @@ Contact:
 
 ### My principal proyects and colaborations:
 
-- Aral´s Revenge KajaamReplit:<br>
+- __Aral´s Revenge KajaamReplit:__<br>
    The game consists on pass 5 levels with different enemies and maps to collect the gems that allow you to open a boss gate, where you will fight the final boss of the game to free the Aral´s Kingdom.<br>
    If you want to play the game, only follow this [link](https://Arals-Revenge.ramiroyoshuafra.repl.co) <br>
-   I will love to hear your comments and recommendations.
+   I will love to hear your comments and recommendations.<br>
+   __Principal Rol:__ Developer of full game with one partner, director of the game design, logic of the game and art.<br>
+   __Tools:__ Unity, GitHub, replit, c#, <br>
  
-- Alien invasion:<br>
+- __Alien invasion:__<br>
   This is a scholar project that involves AI, the principal objective was to create a tower defense game in Unity in which you will be an alien an your objective will be to destroy the human base passing trough a way full of human defense towers. <br>
-  Principal Rol: Developer of the enemy agent, colaborator of the game design and logic of the game.<br>
+  __Principal Rol:__ Developer of the enemy agent, colaborator of the game design and logic of the game.<br>
+   __Tools:__ Unity, c#, GitHub.<br>
   [Video Demo for enemy agent](https://drive.google.com/file/d/19ozpDaTk2Nyoxjzefj6TxdjBelqNussH/view?usp=sharing)<br>
   [Presentation of the game](https://docs.google.com/presentation/d/1xxE3dso6KpFnMlHAdAFBkCxSzggKivtPXmTlO8gKAas/edit?usp=sharing)
  
  
 ### Professional Experience:
 
-- RPA Developer at BeckeerCo <br>
- September 2021 - March 2022 <br>
- My principal responsibilities were to develop RPA software in Uipath for USA and LATAM clients.<br>
- __Tools:__ Uipath Studio, Uipath Orchestrator, GitHub, Azure DevOps, AWS.
- 
- 
- - Internship at Ancient The wisdom of technology <br>
- March 2021 - April 2022 <br>
- 
- 
  - RPA Developer at KPMG Mexico <br>
  August 2022 - Currently <br>
  My principal responsibilities are to develop RPA software in Uipath and its integrations.<br>
- __Tools:__ Uipath Studio, Uipath Orchestrator, SQL Manager.
+ __Tools:__ Uipath Studio, Uipath Orchestrator, SQL Manager, Scrum Methodology.
+ 
+ - Internship at Ancient The wisdom of technology <br>
+ March 2021 - April 2022 <br>
+ My principal responsibilities were to support the development department with documentation, fix modules of web pages and mobile apps, design UI/UX at basic level.<br>
+ __Tools:__ Angular, Kotlin, Jira, Scrum Methodology.
+ 
+ - RPA Developer at BeckeerCo <br>
+ September 2021 - March 2022 <br>
+ My principal responsibilities were to develop RPA software in Uipath for USA and LATAM clients.<br>
+ __Tools:__ Uipath Studio, Uipath Orchestrator, GitHub, Azure DevOps, AWS, Scrum Methodology.
