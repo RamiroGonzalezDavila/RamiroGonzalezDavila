@@ -56,3 +56,6 @@ Contact:
 - Good attitude.<br>
 - Responsible.<br>
 - Fast learning.<br>
+
+### A bit more of me as person:
+I'm a really passionate of gaming, my favorite type of video games are the FPS like Valorant, CSGO and others, but I really like gaming no matter the type of game I enjoy it, I like the competitive level in video games, and I was two times champion of the internal tournament of CSGO in my school and one time of the Valorant Tournament, also, I really like sports, I used to play Football with the school team, and currently I play flag football in the local league of my state.
