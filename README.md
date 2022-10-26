@@ -46,4 +46,13 @@ Contact:
  My principal responsibilities were to develop RPA software in Uipath for USA and LATAM clients.<br>
  __Tools:__ Uipath Studio, Uipath Orchestrator, GitHub, Azure DevOps, AWS, Scrum Methodology.
 
-### Skills and certifications:
+### Skills, certifications and Aptitudes:
+- English B2
+- [Scrum Fundamentals Certificate](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RamiroYoshuaFranciscoGonzalezDavila-892336.pdf)<br>
+- [Six Sigma Yellow Belt](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-RamiroYoshuaFranciscoGonzalezDavila-845398.pdf)<br>
+- Team work.<br>
+- Resilience.<br>
+- Passionate.<br>
+- Good attitude.<br>
+- Responsible.<br>
+- Fast learning.<br>
