@@ -4,7 +4,7 @@ My name is Ramiro Yoshua Franscisco González Dávila
 
 I'm from Mexico and I´m 22 years old
 
-Currently studding the 5th semester in Computational Technologics Engineering at Instituto Tecnologico de Monterrey and working as RPA Developer in KPMG Mexico since August 2022 
+Currently studding the 5th semester in Computational Technologics Engineering at Instituto Tecnologico de Monterrey
 
 My principal professional interest are focused on game development and mobile, I have experience with Unity for 2D and 3D development and currently learning Unreal Engine.
 
@@ -32,7 +32,7 @@ Contact:
 ### Professional Experience:
 
  - RPA Developer at KPMG Mexico <br>
- August 2022 - Currently <br>
+ August 2022 - January 2023 <br>
  My principal responsibilities are to develop RPA software in Uipath and its integrations.<br>
  __Tools:__ Uipath Studio, Uipath Orchestrator, SQL Manager, Scrum Methodology.
  
