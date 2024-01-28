@@ -2,9 +2,9 @@
 
 My name is Ramiro Yoshua Franscisco González Dávila
 
-I'm from Mexico and I´m 22 years old
+I'm from Mexico and I´m 23 years old
 
-Currently studding the 5th semester in Computational Technologics Engineering at Instituto Tecnologico de Monterrey
+Currently studding the 6th semester in Computational Technologics Engineering at Instituto Tecnologico de Monterrey
 
 My principal professional interest are focused on game development and mobile, I have experience with Unity for 2D and 3D development and currently learning Unreal Engine.
 
